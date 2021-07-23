@@ -14,6 +14,7 @@
                     "Microsoft.Network/virtualNetworks/*",
                     "Microsoft.Resources/deployments/*",
                     "Microsoft.Resources/subscriptions/resourceGroups/read"
+                    "Microsoft.Storage/storageAccounts/write"
                 ],
     "NotActions":  [
 
