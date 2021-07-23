@@ -1,0 +1,21 @@
+{
+    "Name":  "AZ-303 Module 5..",
+    "Id":  null,
+    "IsCustom":  true,
+    "Description":  "Spektra Training Custom Role.",
+    "Actions":  [
+                    "Microsoft.Authorization/*/read",
+                    "Microsoft.Compute/availabilitySets/*",
+                    "Microsoft.Compute/disks/*",
+                    "Microsoft.Compute/virtualMachines/extensions/*",
+                    "Microsoft.Network/loadBalancers/*",
+                    "Microsoft.Network/networkInterfaces/*",
+                    "Microsoft.Network/publicIPAddresses/*",
+                    "Microsoft.Network/virtualNetworks/*",
+                    "Microsoft.Resources/deployments/*",
+                    "Microsoft.Resources/subscriptions/resourceGroups/read"
+                ],
+    "NotActions":  [
+
+                   ]
+}
